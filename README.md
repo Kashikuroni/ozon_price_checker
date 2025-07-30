@@ -13,8 +13,8 @@ A tiny terminal UI to quickly inspect a product’s financial summary from OZON.
 #    See: https://docs.astral.sh/uv/
 
 # 2) Clone the repository
-git clone <your-repo-url>
-cd <repo-folder>
+git clone git@github.com:Kashikuroni/ozon_price_checker.git
+cd ozon_price_checker
 
 # 3) Install dependencies
 uv sync
