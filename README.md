@@ -7,7 +7,7 @@ A tiny terminal UI to quickly inspect a product’s financial summary from OZON.
 - **uv** (Python package/dependency manager)
 
 ## Setup
-# 1) Install uv (if you don’t have it yet)
+Install uv (if you don’t have it yet)
 https://docs.astral.sh/uv/getting-started/installation/
 ```bash
 # Clone the repository
