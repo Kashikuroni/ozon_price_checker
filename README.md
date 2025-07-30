@@ -7,23 +7,21 @@ A tiny terminal UI to quickly inspect a product’s financial summary from OZON.
 - **uv** (Python package/dependency manager)
 
 ## Setup
-
-```bash
 # 1) Install uv (if you don’t have it yet)
-[#    See: https://docs.astral.sh/uv/](https://docs.astral.sh/uv/getting-started/installation/)
-
-# 2) Clone the repository
+https://docs.astral.sh/uv/getting-started/installation/
+```bash
+# Clone the repository
 git clone git@github.com:Kashikuroni/ozon_price_checker.git
 cd ozon_price_checker
 
-# 3) Install dependencies
+# Install dependencies
 uv sync
 ```
 
 ## Run
 
 ```bash
-# 4) Start the app
+# Start the app
 uv run src/main.py
 ```
 
